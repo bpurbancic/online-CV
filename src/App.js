@@ -1,5 +1,5 @@
 // Testing git tokens
-// Added from github
+
 
 import Education from './components/Education';
 import Navbar from './components/Navbar';
